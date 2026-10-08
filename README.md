@@ -12,7 +12,7 @@ professional interface.
 ## 🌐 Portfolio
 
 **Live Website:**  
-https://YOUR-USERNAME.github.io/developer-portfolio/
+https://visheshdixit242.github.io/developer-portfolio/
 
 > Replace `YOUR-USERNAME` with your GitHub username.
 
